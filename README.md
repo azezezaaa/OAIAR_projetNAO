@@ -15,12 +15,12 @@ To install naoqi SDK, head over to https://developer.softbankrobotics.com/ and d
 3. Test if naoqi libraries are available by launching a terminal and typing the following:
 
 ```
-python
-import naoqi
+$ python
+$ import naoqi
 ```
 ## Run the script
 Ensure the correct IP address is set for NAO on line 9 of the script. It is currently set to 11.0.0.24.  
 In a terminal, run 
 ```
-python nao.py
+$ python nao.py
 ```
